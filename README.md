@@ -12,7 +12,7 @@ Grouping and aggregation
 
 Creating new derived columns
 
-📁 Files in this Repository
+ ###Files in this Repository
 
 Assignment_pandas.ipynb – Jupyter Notebook containing all solutions
 
@@ -20,17 +20,17 @@ IRIS.csv – Dataset file
 
 README.md – Project description
 
-📌 Dataset Source
+### Dataset Source
 
 The dataset was taken from Kaggle:
 
 https://www.kaggle.com/datasets/arshid/iris-flower-dataset
 
-🧠 Questions & Solutions Breakdown
+### Questions & Solutions Breakdown
 
 The assignment was solved step-by-step inside the notebook.
 
-✅ Part A – Dataset Exploration
+###Part A – Dataset Exploration
 
 Displayed first 10 rows
 
@@ -40,7 +40,7 @@ Inspected column data types
 
 Generated summary statistics (mean, std, min, max)
 
-✅ Part B – Row Filtering
+### Part B – Row Filtering
 
 Filtered rows based on:
 
@@ -50,7 +50,7 @@ species == "Iris-virginica"
 
 Used both boolean indexing and the query() method.
 
-✅ Part C – Group By & Aggregations
+### Part C – Group By & Aggregations
 
 Grouped data by species and calculated:
 
@@ -60,7 +60,7 @@ Maximum petal_width
 
 Standard deviation of sepal_width
 
-✅ Part D – Feature Engineering
+### Part D – Feature Engineering
 
 Created a new column:
 
@@ -69,7 +69,7 @@ petal_ratio = petal_length / petal_width
 
 Computed the average petal_ratio for each species.
 
-📖 What I Learned
+### What I Learned
 
 Through this assignment, I strengthened my understanding of:
 
