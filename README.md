@@ -2,17 +2,17 @@ This repository contains my Pandas assignment where I explored and analyzed the 
 
 The goal of this assignment was to practice:
 
-Loading datasets
+- Loading datasets
 
-Exploring structure and statistics
+- Exploring structure and statistics
 
-Filtering data
+- Filtering data
 
-Grouping and aggregation
+- Grouping and aggregation
 
-Creating new derived columns
+- Creating new derived columns
 
- ###Files in this Repository
+ ### Files in this Repository
 
 Assignment_pandas.ipynb – Jupyter Notebook containing all solutions
 
@@ -25,10 +25,6 @@ README.md – Project description
 The dataset was taken from Kaggle:
 
 https://www.kaggle.com/datasets/arshid/iris-flower-dataset
-
-### Questions & Solutions Breakdown
-
-The assignment was solved step-by-step inside the notebook.
 
 ###Part A – Dataset Exploration
 
@@ -65,7 +61,6 @@ Standard deviation of sepal_width
 Created a new column:
 
 petal_ratio = petal_length / petal_width
-
 
 Computed the average petal_ratio for each species.
 
